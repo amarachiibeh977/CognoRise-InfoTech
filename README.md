@@ -26,7 +26,7 @@ The following Power-BI features and soft skills were incorporated:
 - Story-telling
 
 ## Data Sourcing
-Data was sourced from Kaggle. Get date here(https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india?select=Unemployment+in+India.csv)
+Data was sourced from Kaggle. Get data here(https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india?select=Unemployment+in+India.csv)
 
 ## Data Transformation
 ### Cleaning the data
