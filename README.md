@@ -224,9 +224,54 @@ Highlight the convenience and value of booking hotels through the company. Offer
 
 
 
+## Project 3
 
+# Employee Salaries
+![](image_salary.jpg)
 
+## Introduction
+This is an internship task from Cognorise Infotech, I was tasked to analyze this  *Employee Salaries* dataset to uncover meaningful insights and recommend data driven strategies. As a data analyst, this project served as a hands-on opportunity to apply my skills and knowledge in a real-world setting.  The dataset consist of one table and 12 columns.
+**_Disclaimer_**: *This is a dummy dataset used to demonstrate my proficiency in data analytics*
 
+## Problem statement
+The company seeks to better understand its employee salary structure, analyze trends across different roles, locations, and employment types, and identify opportunities to optimize compensation strategies. Key insights into the distribution of salaries, variations by company size, employee type, experience level, and geographic region are critical for aligning salary policies with organizational goals and market standards.
+
+## Skills demonstrated:
+- Data cleaning
+- Visualization
+- Filter
+- Story telling
+- Problem solving
+
+## Data Sourcing
+Data was sourced from Kaggle. Get data here(https://www.kaggle.com/datasets/inductiveanks/employee-salaries-for-different-job-roles)
+
+## Visualization
+![](Employee_salaries_dashboard.jpg)
+View an interactive dashboard here(https://app.powerbi.com/view?r=eyJrIjoiYzBiZjE2YjMtYzBmNy00MGQzLThiNTUtNmRlNzViMGEyNmRjIiwidCI6ImRlNGUxNjljLWE3YzYtNGI5NC04OTUyLWJlMjliY2FiZWY1NSJ9)
+
+## Key Findings
+1. Overall Dataset Overview:
+The dataset covers salary data from 2020 to 2022, with a total salary expenditure of $68.16 million for 607 employees across 50 countries. Employees span 50 job titles, 17 salary currencies, and 4 employment types.
+
+2. Top 10 Highest Paid Job Titles:
+Leadership and specialized roles in data analytics, engineering, and science dominate the top 10 highest-paid positions.
+Examples include Data Analytics Lead, Principal Data Engineer, and Director of Data Science.
+
+3. Average Salary by Company Size:
+Large companies offer the highest average salaries, followed by medium-sized companies. Small companies provide the lowest average salaries.
+
+4. Average Salary by Employment Type:
+Contract roles command the highest average salary ($185,000), followed by full-time jobs ($113,000). Freelance and part-time roles have the lowest compensation.
+
+5. Average Salary by Experience Level:
+Executive-level employees earn the highest average salaries, followed by senior and middle-level employees. Entry-level roles have the lowest salaries.
+
+6. Top Paying Countries:
+Russia, the United States, and Israel are the top three highest-paying countries, indicating regional disparities in compensation.
+
+## Recommendation
+Ensure competitive pay for high-impact roles like Data Analytics Lead and Principal Data Scientist. Offer attractive packages to retain high-earning contract employees. Study high-paying countries like Russia, the US, and Israel to improve salary strategies. Provide perks and growth opportunities for entry-level and part-time employees. Address salary gaps in smaller organizations with additional benefits or bonuses. These actions will improve retention and maintain a competitive workforce.
 
 
 
