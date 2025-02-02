@@ -82,7 +82,7 @@ Average Employment rate = 88.21 %
 Average Labour participation rate = 42.63 %
 Total Regions = 28
 Unemployment rate in 2019 = 9.40 %
-Unemployment rate in 2029 = 15.20 % 
+Unemployment rate in 2020 = 15.20 % 
 
 - Fluctuations Before the Pandemic (May 2019–March 2020):
 The unemployment rate experienced a gentle, gradual increase and decrease simultaneously during this period. This fluctuation suggests a stable but dynamic labor market, with variations likely driven by seasonal employment patterns and regional economic activities.
