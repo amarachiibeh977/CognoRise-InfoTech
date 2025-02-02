@@ -195,7 +195,7 @@ View an interactive Power BI dashboard here(https://app.powerbi.com/view?r=eyJrI
 
 4. Customers who have not linked their social media accounts to the company account are more likely to churn (125 customers) compared to those who have linked their accounts (99 customers). This suggests a missed opportunity for deeper engagement with these customers.
 
-5. A significant number of churned customers (176) did not book hotels through the company, while only 48 churned customers had used the hotel booking service. This suggests that customers who do not engage with this service are at a higher risk of leaving.
+5. A significant number of churned customers (176) did not book hotels through the company, while only 48 unchurned customers had used the hotel booking service. This suggests that customers who do not engage with this service are at a higher risk of leaving.
 
 6. Customers who opted for either 1, 2, or 5 services showed higher churn rates compared to those using other service combinations. This could indicate dissatisfaction or a lack of perceived value in these specific service offerings.
 
